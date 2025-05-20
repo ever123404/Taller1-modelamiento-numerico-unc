@@ -1,0 +1,26 @@
+Modelacion_Transporte_Contaminantes/
+│
+├── README.md
+├── requirements.txt
+│
+├── notebooks/
+│   ├── 00_Introduccion.ipynb
+│   ├── 01_Fundamentos_EDP.ipynb
+│   ├── 02_Adimensionalizacion.ipynb
+│   ├── 03_Discretizacion_DF.ipynb
+│   ├── 04_Analisis_Estabilidad.ipynb
+│   ├── 05_Simulacion_Caso.ipynb
+│   └── 06_Proyecto_Final.ipynb
+│
+├── data/
+│   ├── parametros_canales.csv
+│   └── casos_vertidos.json
+│
+├── src/
+│   ├── visualizacion.py
+│   ├── soluciones_analiticas.py
+│   └── utils.py
+│
+└── resources/
+    ├── img/
+    └── referencias/
